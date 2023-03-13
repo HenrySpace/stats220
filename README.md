@@ -7,6 +7,11 @@ Welcome to my github repo where my work for stats 220 will be put.
 - Other stats 220 things
 - Show my love of garfield
 
+## A list of numbers:
+1. One
+2. Five
+3. Seven
+
 **This Text Is Bold So Surely Its Important**
 
 *Text in italics kinda looks like its falling down right?*
