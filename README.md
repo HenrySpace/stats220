@@ -5,6 +5,7 @@ Welcome to my github repo where my work for stats 220 will be put.
 - Put projects for stats 220
 - Make things that get good grades for stats 220
 - Other stats 220 things
+- Show my love of garfield
 
 **This Text Is Bold So Surely Its Important**
 
